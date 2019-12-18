@@ -2,3 +2,5 @@
 import "typeface-montserrat"
 import "typeface-merriweather"
 import "./src/styles/global.css"
+
+export function onServiceWorkerUpdateReady(){window.location.reload(true)};
