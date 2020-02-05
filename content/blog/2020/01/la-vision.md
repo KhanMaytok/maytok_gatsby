@@ -12,6 +12,9 @@ uuid: "b5c9d3e9-91f9-4a13-8d4d-e878d786c9f3"
 
 ¿Has oído hablar de la iniciativa Ancestros?
 
+<img src="https://i.imgur.com/wYq5Vj7.png" alt="Mapa dothraki" class="img-fluid">
+<span class="caption text-muted">"Sir, I'm gonna have to ask you to exit the donut."</span>
+
 Es nuestro relato principal. Está ambientado en la Edad Media y abarca más de 600 años, iniciando en el 769 d.C., el primero del reinado de quien conocemos ahora como el Emperador Carlomagno. Te presentaré a los dos protagonistas, dos niños inteligentes, taimados y bien presentados, sus nombres son Khalga Y Vee.
 
 Antes de seguir, como dije en el [primer post](/2020/01/bienvenido/), Ancestros también será un AAR. La base sobre la cual se relata es [Crusader Kings 2](https://store.steampowered.com/app/203770/Crusader_Kings_II/), un juego de gran estrategia, enfocado en la gestión de una dinastía y como debe perpetuarse a lo largo del tiempo, a través de la diplomacia, la intriga, la guerra, la economía __y tus decisiones__. El juego me apasiona porque puedes elegir entre _miles_ de personajes jugables en un mapa que abarca desde España hasta la India y una partida nunca será idéntica a la otra. Es un gran terreno para que Ancestros pueda plantarse y la veamos crecer. Las posibilidades de Crusader Kings 2 son infinitas. ¿Quienes un ejemplo? Es tan moldeable que el mapa de Eurasia y la Edad Media puede transformarse en el Westeros de **Juego de tronos** y el Continente de **The Witcher**.
