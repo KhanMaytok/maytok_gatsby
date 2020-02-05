@@ -12,8 +12,8 @@ uuid: "b5c9d3e9-91f9-4a13-8d4d-e878d786c9f3"
 
 ¿Has oído hablar de la iniciativa Ancestros?
 
-<img src="https://i.imgur.com/wYq5Vj7.png" alt="Mapa dothraki" class="img-fluid">
-<span class="caption text-muted">"Sir, I'm gonna have to ask you to exit the donut."</span>
+<img src="https://i.imgur.com/CygL4UY.png" alt="Mapa dothraki" class="img-fluid">
+<span class="caption text-muted">"Señor, voy a tener que pedirle que salga de la rosquilla."</span>
 
 Es nuestro relato principal. Está ambientado en la Edad Media y abarca más de 600 años, iniciando en el 769 d.C., el primero del reinado de quien conocemos ahora como el Emperador Carlomagno. Te presentaré a los dos protagonistas, dos niños inteligentes, taimados y bien presentados, sus nombres son Khalga Y Vee.
 
